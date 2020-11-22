@@ -9,7 +9,7 @@ LOCALE = [
     ["acum 1 minut", "într-un minut"],
     ["acum %s minute", "în %s minute"],
     ["acum o oră", "într-o oră"],
-    ["acum %s", "în %s ore"],
+    ["acum %s ore", "în %s ore"],
     ["acum o zi", "într-o zi"],
     ["acum %s zile", "în %s zile"],
     ["acum o săptămână", "într-o săptămână"],
